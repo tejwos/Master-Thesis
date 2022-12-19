@@ -22,3 +22,6 @@ The resulting validation values are used to determine the training efficiency of
 # Simulation:
 The simulation can be extended to include a human oracle in the Active Learning Loop. The oracle should then annotate the top UCV selection by hand and plug it back into the loop.
  Since the oracle is missing from the AL algothm and all segmentation masks are already present at the beginning, this program is called a simulation. 
+ 
+ # Features:
+ - Fully reproducible mlf-core Pytorch model
