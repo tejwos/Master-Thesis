@@ -25,3 +25,4 @@ The simulation can be extended to include a human oracle in the Active Learning 
  
  # Features:
  - Fully reproducible mlf-core Pytorch model
+ - CPU and CUDA Support
